@@ -3,6 +3,8 @@ layout: page
 title: I-Talent portfolio
 subtitle: Home
 use-site-title: true
+meta-title: I-Talent portfolio
+meta-description: Koen Castermans Hogeschool PXL
 ---
 
 <div class="text-center">
@@ -67,12 +69,12 @@ use-site-title: true
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Nieuwere Posts</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Oudere Posts &rarr;</a>
   </li>
   {% endif %}
 </ul>
