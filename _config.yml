@@ -23,7 +23,7 @@ description: Portfolio van Koen Castermans voor het vak I-Talent. Laatste jaars 
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Overzicht: "overzicht"
   Domeinen:
     - Levenslang leren: "http://koenca.github.io/domeinen/levenslangleren"
     - Internationalisering: "http://koenca.github.io/domeinen/internationalisering"
