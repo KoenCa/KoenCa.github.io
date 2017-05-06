@@ -30,5 +30,5 @@ subtitle: Overzicht van alle activiteiten
 | Elixir Talks Night Zuid-Nederland                                                         | Meetup over Elixir                   | Kabisa, Weert               | 21/03/17 | 3 uren  | Ja               |
 | [The Complete JavaScript Course](/2017-04-25-complete-javascript)                         | Udemy course over JavaScript         | Udemy                       | 25/04/17 | 18 uren | Ja               |
 | Training: feedback geven                                                                  | Bedrijfstraining over feedback geven | Kabisa, Weert               | 19/04/17 | 3 uren  | Ja               |
-| PXL-IT goes Dublin                                                                        | Studiereis naar Dublin               | Dublin                      | 22/04/17 | 30 uren | nee              |
+| [PXL-IT goes Dublin](/2017-04-26-dublin)                                                  | Studiereis naar Dublin               | Dublin                      | 22/04/17 | 30 uren | nee              |
 | [Master Electron: Desktop Apps using HTML, JavaScript & CSS](/2017-05-06-electron-course) | Udemy course over Electron           | Udemy                       | 6/05/17  | 6 uren  | Ja               |
