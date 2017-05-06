@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Koen Castermans.
+title: I-Talent portfolio
 
 # Short description of your site
 description: Portfolio van Koen Castermans voor het vak I-Talent. Laatste jaars student Toegepaste Informatica op Hogeschool PXL met als afstudeerriching Aplicatieontwikkeling.
@@ -23,7 +23,9 @@ description: Portfolio van Koen Castermans voor het vak I-Talent. Laatste jaars 
 
 # List of links in the navigation bar
 navbar-links:
+  Voorstelling: "voorstelling"
   Overzicht: "overzicht"
+  Eindreflectie: "eindreflectie"
   Domeinen:
     - Levenslang leren: "./domeinen/levenslangleren"
     - Internationalisering: "./domeinen/internationalisering"
