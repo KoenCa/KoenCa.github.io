@@ -1,19 +1,19 @@
 ---
 layout: page
 title: I-Talent portfolio
-subtitle: Internationalisering
+subtitle: Externe activiteiten
 ---
 
 <div class="text-center">
   <a href="/" class="btn btn-default">Alle</a>
   <a href="/domeinen/levenslangleren" class="btn btn-default">Levenslang leren</a>
-  <a href="/domeinen/internationalisering" class="btn btn-default active">Internationalisering</a>
+  <a href="/domeinen/internationalisering" class="btn btn-default">Internationalisering</a>
   <a href="/domeinen/seminaries" class="btn btn-default">Seminaries</a>
-  <a href="/domeinen/externe-activiteiten" class="btn btn-default">Externe activiteiten</a>
+  <a href="/domeinen/externe-activiteiten" class="btn btn-default active">Externe activiteiten</a>
 </div>
 
 <div class="posts-list">
-  {% for post in site.tags.internationalisering %}
+  {% for post in site.tags.externe_activiteiten %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	    <h2 class="post-title">{{ post.title }}</h2>
@@ -31,7 +31,7 @@ subtitle: Internationalisering
       <div class="post-entry">
         {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-      </div>
+      </div>  
    </article>
   {% endfor %}
 </div>
