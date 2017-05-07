@@ -22,7 +22,7 @@ Je verwacht van je collega een reactie op de email die je vorige week gestuurd h
 ### 1. Vertel je observatie
 Je zegt: “Ik heb nog geen reactie van je gehad op mijn email van donderdag”.
 
-Bij deze stap is het belangrijk je enkel feiten aanhaalt. Je moet dus zo objectief mogelijk zijn. 
+Bij deze stap is het belangrijk dat je enkel feiten aanhaalt. Je moet dus zo objectief mogelijk zijn. 
 
 ### 2.	Vertel je interpretatie
 Je zegt: “Ik begin mij wat zorgen te maken”.
