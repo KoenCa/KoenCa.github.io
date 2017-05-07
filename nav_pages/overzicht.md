@@ -32,3 +32,4 @@ subtitle: Overzicht van alle activiteiten
 | [Training: feedback geven](/2017-04-19-feedback-geven)                                    | Bedrijfstraining over feedback geven | Kabisa, Weert               | 19/04/17                | 3 uren  | Ja               |
 | [PXL-IT goes Dublin](/2017-04-26-dublin)                                                  | Studiereis naar Dublin               | Dublin                      | 22/04/17                | 30 uren | nee              |
 | [Master Electron: Desktop Apps using HTML, JavaScript & CSS](/2017-05-06-electron-course) | Udemy course over Electron           | Udemy                       | 6/05/17                 | 6 uren  | Ja               |
+| Portfolio                                                                                 | Maken van I-Talent portfolio         | /                           | 7/05/17                 | 20 uren | Ja               |

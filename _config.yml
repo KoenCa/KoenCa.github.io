@@ -23,9 +23,9 @@ description: Portfolio van Koen Castermans voor het vak I-Talent. Laatste jaars 
 
 # List of links in the navigation bar
 navbar-links:
-  Voorstelling: "voorstelling"
-  Overzicht: "overzicht"
-  Eindreflectie: "eindreflectie"
+  Voorstelling: "./nav_pages/voorstelling"
+  Overzicht: "./nav_pages/overzicht"
+  Eindreflectie: "./nav_pages/eindreflectie"
   Domeinen:
     - Levenslang leren: "./domeinen/levenslangleren"
     - Internationalisering: "./domeinen/internationalisering"
